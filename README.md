@@ -3,7 +3,7 @@ Paper code: “[Efficient Decision-based Black-box Patch Attacks on Video Recogn
 
 ## Start
 ```
-git clone git@github.com:deep-kaixun/STDE.git
+git clone https://github.com/deep-kaixun/STDE.git
 cd STDE
 conda env create -f environment.yaml
 ```
